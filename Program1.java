@@ -17,7 +17,7 @@ class Program1{
         
        for(int j=0;j<number;j++){
 
-        System.out.println("your " + j + " index element: "+arr[j]);
+          System.out.println("your " + j + " index element: "+arr[j]);
        }
     }    
     
