@@ -1,4 +1,4 @@
-//Program to display //how many timy user want 
+//Program to display //how many timy user want display
 import java.lang.*;
 import java.util.*;
  
