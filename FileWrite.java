@@ -1,4 +1,4 @@
-//Prigram to write file
+//Program to write file
 import java.io.*;
 
 public class FileWrite {
